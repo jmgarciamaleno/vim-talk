@@ -1,9 +1,7 @@
 01 Launch vim
 
-Vim app
+Throw away the mouse!
 
 vim
 vim <file1> <file2> ...
 vim *
-
-vim .vimrc

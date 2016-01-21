@@ -1,4 +1,4 @@
-18 Powerful Ex commands!
+17 Powerful Ex commands!
 
 :s/<search>/<replace>/[flags]
 :%s/dog/cat/gc
@@ -13,3 +13,5 @@
 :g!/good/y A
 
 :g/cat/normal Icat here:
+
+Yeah, rocks!

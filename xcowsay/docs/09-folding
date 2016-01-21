@@ -4,13 +4,13 @@ set foldenable
 set foldmethod=syntax (indent, diff)
 set foldcolumn=#
 
-zo (open)
-zO (open recursively)
-zc (close)
-zC (close recursively)
+zo
+zO
+zc
+zC
 
-zr (reduce folding)
+zr
 zR (open all)
 
-zm (more folding)
+zm
 zM (close all)

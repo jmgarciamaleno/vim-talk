@@ -4,21 +4,17 @@ set hidden
 
 :e <file>
 :e!
-gf
+gf (rocks!)
 
-:w
-:wa!
+:w (:wa!)
 
-:q
-:qa!
-:bw
-:bw #
+:q (:qa!)
+:bw / :bw #
 
 :ls
 
-:bn
-:bp
-:b #
+:bn / :bp
+:b # / :b <name>
 ctrl-6
 
 :bufdo <cmd>

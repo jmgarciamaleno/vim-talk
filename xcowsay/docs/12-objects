@@ -12,10 +12,9 @@ t  Tag (markup languages)
 "" Double quotes
 <> Angle brackets
 
-<cmd>a<object> Operate over an object.
-<cmd>i<object> Operate inner/inside an object.
+<cmd>a<object> Operate over an object
+<cmd>i<object> Operate inner/inside an object
 
-vap
-caw
-d3w
-ci"
+vap | caw | d3w | ci"
+
+Objects ROCKS!
