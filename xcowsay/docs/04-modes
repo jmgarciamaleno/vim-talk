@@ -1,0 +1,9 @@
+04 Modes! (:help vim-modes)
+
+6 basic modes, 6 additional modes.
+
+- Normal mode (ESC)
+- Visual mode (v, shift-v, ctrl-v)
+- Insert mode (insert, append or open commands)
+- Command line mode (:)
+- Replace mode (R)

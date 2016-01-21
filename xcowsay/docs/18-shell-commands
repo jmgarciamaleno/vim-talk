@@ -1,0 +1,9 @@
+19 Using shell commands in your buffers
+
+!
+
+:%!python -m json.tool
+
+:1,5!column -t
+
+!!cat /home/user/foo.txt

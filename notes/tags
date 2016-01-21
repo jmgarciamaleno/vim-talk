@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+KalturaManager	note.php	/^class KalturaManager implements ImageStorageInterface, VideoStorageInterface$/;"	c
+__construct	note.php	/^    public function __construct($/;"	f
+addThumbnailToResource	note.php	/^    public function addThumbnailToResource(File $thumbnail, $id)$/;"	f
+createEntry	note.php	/^    public function createEntry()$/;"	f
+createSession	note.php	/^    public function createSession()$/;"	f
+getCategoryByName	note.php	/^    private function getCategoryByName($name, $client = null)$/;"	f
+getChannels	note.php	/^    public function getChannels()$/;"	f
+getDefaultThumbnail	note.php	/^    public function getDefaultThumbnail($id)$/;"	f
+getDownloadUrl	note.php	/^    public function getDownloadUrl($entryId)$/;"	f
+getMetadataEntry	note.php	/^    public function getMetadataEntry($entryId, $client = null)$/;"	f
+getParentIdInCategoriesArray	note.php	/^    private function getParentIdInCategoriesArray($categoryId, $categories)$/;"	f
+getProviderList	note.php	/^    public function getProviderList()$/;"	f
+getThumbnailUrl	note.php	/^    public function getThumbnailUrl($id)$/;"	f
+getVideoThumbnailList	note.php	/^    public function getVideoThumbnailList($entryId)$/;"	f
+getVideoThumbnails	note.php	/^    private function getVideoThumbnails($id)$/;"	f
+hasDefaultTag	note.php	/^    private function hasDefaultTag($tags)$/;"	f
+hasSession	note.php	/^    public function hasSession()$/;"	f
+isVideoReady	note.php	/^    public function isVideoReady($entryId)$/;"	f
+publish	note.php	/^    public function publish($path)$/;"	f
+publishOnKaltura	note.php	/^    public function publishOnKaltura($entryId)$/;"	f
+remove	note.php	/^    public function remove($entryId)$/;"	f
+removeThumbnail	note.php	/^    public function removeThumbnail($thumbnailId)$/;"	f
+retrieve	note.php	/^    public function retrieve($entryId)$/;"	f
+setDefaultThumbnail	note.php	/^    public function setDefaultThumbnail($thumbnailId)$/;"	f
+update	note.php	/^    public function update($entryId, $fields)$/;"	f
+updateMetadataEntry	note.php	/^    public function updateMetadataEntry($client, $fields, $entryId)$/;"	f
+uploadFile	note.php	/^    public function uploadFile($entry, $path)$/;"	f

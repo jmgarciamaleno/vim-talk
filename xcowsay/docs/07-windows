@@ -1,0 +1,18 @@
+07 Windows (:help windows)
+
+ctrl-w h (H)
+ctrl-w j (J)
+ctrl-w k (K)
+ctrl-w l (L)
+
+:resize #
+:vertical resize #
+ctrl-w =
+
+:sb #
+:vertical sb #
+
+:sf <file>
+:vertical sf <file>
+
+:windo <cmd>

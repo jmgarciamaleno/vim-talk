@@ -1,0 +1,30 @@
+14 Moving around the buffer!
+
+ctrl-U
+ctrl-D
+ctrl-F
+ctrl-B
+
+ctrl-y
+ctrl-e
+
+H
+M
+L
+
+zz
+z-enter
+
+:#
+#%
+
+/ (n, N)
+?
+*
+#
+gd
+
+ma
+'a
+
+:marks

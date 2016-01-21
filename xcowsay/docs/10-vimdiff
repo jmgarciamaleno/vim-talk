@@ -1,0 +1,15 @@
+10 Vim-diff (:help diff)
+
+vimdiff <file1> <file2> [<file3> [<file4>]]
+
+:windo diffthis
+
+]c
+[c
+
+:diffget (do, obtain)
+:diffput (dp)
+
+:diffupdate
+
+:windo diffoff!

@@ -1,0 +1,16 @@
+08 Registers! (:help registers)
+
+"<registerid>
+
+""
+
+"+ or "*
+
+"a ... "z
+"A ... "Z
+
+"0 ... "9  ("0 rocks!)
+
+:reg
+
+.viminfo

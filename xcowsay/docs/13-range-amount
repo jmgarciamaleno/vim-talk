@@ -1,0 +1,15 @@
+13 Range and amount
+
+[range][amount]<cmd>
+
+n,m
+.
+$
+%
+
+:1,5d
+:.,$y
+:%>
+
+10j
+3dw

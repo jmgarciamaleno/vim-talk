@@ -1,0 +1,13 @@
+06 Tabs (:help tabpage)
+
+:tabnew
+:tabclose
+
+:tabn (gt)
+:tabp (gT)
+
+:tabm #
+:tabm +#
+:tabm -#
+
+:tabdo <cmd>

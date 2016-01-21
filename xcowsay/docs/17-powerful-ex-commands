@@ -1,0 +1,15 @@
+18 Powerful Ex commands!
+
+:s/<search>/<replace>/[flags]
+:%s/dog/cat/gc
+
+:normal <cmd>
+:%normal 0daW
+
+:g/<search>/<cmd>
+:g/bad/d
+
+:g!/<search>/<cmd>
+:g!/good/y A
+
+:g/cat/normal Icat here:

@@ -1,0 +1,24 @@
+05 Buffers! (:help buffers)
+
+set hidden
+
+:e <file>
+:e!
+gf
+
+:w
+:wa!
+
+:q
+:qa!
+:bw
+:bw #
+
+:ls
+
+:bn
+:bp
+:b #
+ctrl-6
+
+:bufdo <cmd>

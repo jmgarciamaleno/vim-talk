@@ -1,0 +1,21 @@
+12 Objects! (:help objects)
+
+w  Word
+W  Blank-separated word
+s  Sentence
+p  Paragraph
+t  Tag (markup languages)
+() Parenthesis
+[] Brackets
+{} Braces
+'' Quotes
+"" Double quotes
+<> Angle brackets
+
+<cmd>a<object> Operate over an object.
+<cmd>i<object> Operate inner/inside an object.
+
+vap
+caw
+d3w
+ci"

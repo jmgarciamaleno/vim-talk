@@ -1,0 +1,5 @@
+11 Macro recording (:help recording)
+
+1. Press q<key> to start recording, do things.
+2. Hit q to stop recording.
+3. Use @<key> to execute the macro.
